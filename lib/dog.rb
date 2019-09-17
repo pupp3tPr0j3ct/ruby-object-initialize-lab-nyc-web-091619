@@ -18,5 +18,4 @@ end
 
 binding.pry
 
-ido = Dog.new
 

@@ -1,3 +1,4 @@
+require 'pry'
 class Dog 
   
   def initialize(name)
@@ -13,3 +14,8 @@ class Dog
   end
   
 end
+
+binding.pry
+
+fido = Dog.new
+

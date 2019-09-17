@@ -13,9 +13,7 @@ class Dog
   def name
     @name
   end
-  
     
-  
 end
 
 #binding.pry
